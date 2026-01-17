@@ -48,10 +48,19 @@ I am not affiliated with or employed by Walmart.
 ---
 
 ##  Repository Structure
-- Root: Project overview, logs, and control documents  
-- 01_Initiation: Business case, charter, stakeholders  
-- 02_Planning: Scope, schedule, cost, risk, quality  
-- 03_Execution: Work tracking and updates  
+README.md
+Decision_Log.xlsx
+Business_Case.pdf
+Project_Charter.pdf
+Goals_and_Success_Criteria.docx
+Scope_Statement.docx
+Requirements_Traceability_Matrix.xlsx
+Dependency_Log.xlsx
+Project_Schedule.xlsx
+Gantt_Chart.pdf
+Cost_Benefit_Analysis.xlsx
+ROI_Calculation.xlsx
+
 - 04_Monitoring_and_Controlling: KPIs, variance, audits  
 - 05_Closing: Benefits realization and closure  
 - 06_AI_and_Modern_PM: Light AI-related considerations  
